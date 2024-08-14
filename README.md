@@ -1,2 +1,2 @@
 # hello-world
-Intro to github, matematical functions.
+Intro to github, mathematical functions.
